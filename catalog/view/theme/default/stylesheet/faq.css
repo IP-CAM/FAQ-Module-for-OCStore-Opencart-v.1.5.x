@@ -1,0 +1,60 @@
+.faq-item {
+    border-bottom: 1px solid #DBDEE1;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.faq-item .faq-image {
+    float: left;
+    margin-right: 10px;
+}
+.faq-item:last-child {
+    border: none;
+}
+
+.faq {
+    border-bottom: 1px solid #DBDEE1;
+    padding-bottom: 10px;
+}
+
+.faq:last-child {
+    border: none;
+}
+
+.faq-title a {
+    font-size: 16px;
+}
+
+.faq-title {
+    display: block;
+    padding: 5px 0;
+}
+
+.faq-date {
+    display: inline-block;
+}
+
+.faq-image {
+}
+
+.faq-desc {
+    padding: 10px 5px;
+}
+
+.faq-desc p {
+}
+
+.faq_user_name{
+
+}
+
+.faq_question{
+
+}
+
+.faq_answerer_name{
+
+}
+
+.faq_answer{
+
+}
